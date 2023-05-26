@@ -1,1 +1,1 @@
-'heya, whats going on ?'
+'heya,'
